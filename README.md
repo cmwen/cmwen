@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmwen&count_private=true&theme=dark)
-![Min@MediRecords](https://github-readme-stats.vercel.app/api?username=min-medirecords&count_private=true&theme=dark&custom_title=Min@MediRecords)
-![Min@Monster](https://github-readme-stats.vercel.app/api?username=min-monster&count_private=true&theme=dark&custom_title=Min@Monster)
+[![Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmwen&count_private=true&theme=dark)](https://github.com/cmwen/)
+[![Min@MediRecords](https://github-readme-stats.vercel.app/api?username=min-medirecords&count_private=true&theme=dark&custom_title=Min@MediRecords)](https://github.com/min-medirecords)
+[![Min@Monster](https://github-readme-stats.vercel.app/api?username=min-monster&count_private=true&theme=dark&custom_title=Min@Monster)](https://github.com/min-monster)
