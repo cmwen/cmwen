@@ -14,7 +14,19 @@ A recurring theme in my work is turning software into smaller, explicit building
 - 🏠 **Local-first and user-owned software** — applications where users retain control of their data and infrastructure
 - 🛠 **Developer tooling** — tools that make increasingly agent-driven development observable, controllable, and practical
 
-## Featured Open Source
+## Featured Projects
+
+### 🎛️ Agent Control Surface
+
+A working ESP32-S3 hardware dashboard and control surface for monitoring and interacting with coding agents.
+
+It brings agent workflows outside the desktop with a touch interface, real-time agent status, usage telemetry, voice interaction, and network connectivity. The project explores what a physical human interface for increasingly autonomous software agents could look like.
+
+**Status:** working prototype used in my own workflow  
+**Focus:** human-agent interaction · embedded systems · real-time state · developer tooling
+
+---
+
 
 ### 🤖 [Agentic Engineering Workspace](https://github.com/open-agent-workspace/reference-implmentation)
 
