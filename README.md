@@ -16,14 +16,14 @@ A recurring theme in my work is turning software into smaller, explicit building
 
 ## Featured Projects
 
-### 🎛️ Agent Control Surface
+### 🎛️ [FNK0104B / Agent Control Surface](https://github.com/cmwen/FNK0104B)
 
-A working ESP32-S3 hardware dashboard and control surface for monitoring and interacting with coding agents.
+A working ESP32-S3 firmware lab and physical control surface for monitoring and interacting with coding agents.
 
-It brings agent workflows outside the desktop with a touch interface, real-time agent status, usage telemetry, voice interaction, and network connectivity. The project explores what a physical human interface for increasingly autonomous software agents could look like.
+The project includes a Codex monitor with a touchscreen status dashboard, real-time agent state, usage telemetry, voice capture, attention alerts, BLE settings, OTA updates, and local bridge integration. It also serves as a reusable firmware lab for display, touch, USB HID, audio, wake-word / speech experiments, storage, networking, and board support.
 
 **Status:** working prototype used in my own workflow  
-**Focus:** human-agent interaction · embedded systems · real-time state · developer tooling
+**Focus:** human-agent interaction · embedded systems · real-time state · voice interfaces · developer tooling
 
 ---
 
